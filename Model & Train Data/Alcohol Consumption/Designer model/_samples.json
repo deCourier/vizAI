@@ -1,0 +1,23 @@
+[
+  {
+    "country": "Benin",
+    "beer_servings": 34,
+    "spirit_servings": 4,
+    "wine_servings": 13,
+    "total_litres_of_pure_alcohol": 1.1
+  },
+  {
+    "country": "Gabon",
+    "beer_servings": 347,
+    "spirit_servings": 98,
+    "wine_servings": 59,
+    "total_litres_of_pure_alcohol": 8.9
+  },
+  {
+    "country": "Libya",
+    "beer_servings": 0,
+    "spirit_servings": 0,
+    "wine_servings": 0,
+    "total_litres_of_pure_alcohol": 0.0
+  }
+]

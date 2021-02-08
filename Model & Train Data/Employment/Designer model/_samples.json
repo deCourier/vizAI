@@ -1,0 +1,47 @@
+[
+  {
+    "data_type_code": "32",
+    "industry_code": "41423900",
+    "supersector_code": "41",
+    "series_id": "CEU4142390032",
+    "year": 2004,
+    "period": "M04",
+    "value": 7.949999809265137,
+    "footnote_codes": "nan",
+    "seasonal": "U",
+    "series_title": "Average hourly earnings of production and nonsupervisory employees, 1982-84 dollars, miscellaneous durable goods, not seasonally adjusted",
+    "supersector_name": "Wholesale trade",
+    "industry_name": "Miscellaneous durable goods",
+    "data_type_text": "AVERAGE HOURLY EARNINGS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES, 1982-84 DOLLARS"
+  },
+  {
+    "data_type_code": "7",
+    "industry_code": "60560000",
+    "supersector_code": "60",
+    "series_id": "CEU6056000007",
+    "year": 2011,
+    "period": "M03",
+    "value": 33.70000076293945,
+    "footnote_codes": "nan",
+    "seasonal": "U",
+    "series_title": "Average weekly hours of production and nonsupervisory employees, administrative and waste services, not seasonally adjusted",
+    "supersector_name": "Professional and business services",
+    "industry_name": "Administrative and waste services",
+    "data_type_text": "AVERAGE WEEKLY HOURS OF PRODUCTION AND NONSUPERVISORY EMPLOYEES"
+  },
+  {
+    "data_type_code": "1",
+    "industry_code": "60541430",
+    "supersector_code": "60",
+    "series_id": "CEU6054143001",
+    "year": 1999,
+    "period": "M02",
+    "value": 69.69999694824219,
+    "footnote_codes": "nan",
+    "seasonal": "U",
+    "series_title": "All employees, thousands, graphic design services, not seasonally adjusted",
+    "supersector_name": "Professional and business services",
+    "industry_name": "Graphic design services",
+    "data_type_text": "ALL EMPLOYEES, THOUSANDS"
+  }
+]

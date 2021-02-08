@@ -1,0 +1,23 @@
+[
+  {
+    "airline": "Turkish Airlines",
+    "avail_seat_km_per_week": 1946098294,
+    "incidents_00_14": 8,
+    "fatal_accidents_00_14": 2,
+    "fatalities_00_14": 84
+  },
+  {
+    "airline": "Egyptair",
+    "avail_seat_km_per_week": 557699891,
+    "incidents_00_14": 4,
+    "fatal_accidents_00_14": 1,
+    "fatalities_00_14": 14
+  },
+  {
+    "airline": "Avianca",
+    "avail_seat_km_per_week": 396922563,
+    "incidents_00_14": 0,
+    "fatal_accidents_00_14": 0,
+    "fatalities_00_14": 0
+  }
+]

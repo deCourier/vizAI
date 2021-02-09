@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2020-08-30 00:00:00",
+    "key": "CH_BL",
+    "new_hospitalized": 0.0,
+    "total_hospitalized": 3.0,
+    "new_intensive_care": 0.0,
+    "total_intensive_care": 1.0,
+    "new_ventilator": 0.0,
+    "total_ventilator": 1.0
+  },
+  {
+    "date": "2020-10-02 00:00:00",
+    "key": "CH_TI",
+    "new_hospitalized": -1.0,
+    "total_hospitalized": 1.0,
+    "new_intensive_care": 0.0,
+    "total_intensive_care": 0.0,
+    "new_ventilator": 0.0,
+    "total_ventilator": 0.0
+  },
+  {
+    "date": "2020-09-29 00:00:00",
+    "key": "CH_LU",
+    "new_hospitalized": -2.0,
+    "total_hospitalized": 6.0,
+    "new_intensive_care": 0.0,
+    "total_intensive_care": 0.0,
+    "new_ventilator": 0.0,
+    "total_ventilator": 0.0
+  }
+]

@@ -1,5 +1,3 @@
-#Licensing and uploading to avanade github - check with module leads
-
 #Initialising variables
 model = None
 x_train = None

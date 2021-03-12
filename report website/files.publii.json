@@ -107,17 +107,17 @@
     {
         "path": "/authors/james-chang/index.html",
         "type": "file",
-        "md5": "e5dcba2abf85ce27b321ed5282eeb94a"
+        "md5": "f5d67f9e89fb8fca89964b785c6d8e4e"
     },
     {
         "path": "example.html",
         "type": "file",
-        "md5": "a855728f27da7f3f0f04552e70be49e0"
+        "md5": "a02a32f284858bb768e412de87e416a3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "42de3b567f2b13f7ae07e51df61e93e5"
+        "md5": "dc85d13bba28dec3af958190a4c1eea5"
     },
     {
         "path": "media",
@@ -465,6 +465,86 @@
         "md5": "9fc717ff225b3fa4081b72e66d9d860a"
     },
     {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/Screenshot-2021-03-11-at-23.34.24.png",
+        "type": "file",
+        "md5": "634939bdbde1fb5ab29c6dbdcf9abe9a"
+    },
+    {
+        "path": "/media/posts/4/Screenshot-2021-03-11-at-23.46.26.png",
+        "type": "file",
+        "md5": "2c7ab4135df07125b7f141676fe426ec"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-2xl.png",
+        "type": "file",
+        "md5": "29901b1fb3bc32bddfd4611f73b1cf2d"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-lg.png",
+        "type": "file",
+        "md5": "14c905d7599b9e14a131e3cfb973d0cd"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-md.png",
+        "type": "file",
+        "md5": "13a00541ad5c8e8f20490705dac1e84a"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-sm.png",
+        "type": "file",
+        "md5": "5da9445ae66d6b152cb0a7949a3fb945"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-xl.png",
+        "type": "file",
+        "md5": "05cf23ee830b81622c23934d8ae5823e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-xs.png",
+        "type": "file",
+        "md5": "61b633d08792503b5da229838646eb62"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-2xl.png",
+        "type": "file",
+        "md5": "876dfba74eeb40cc39ced2a87d58972e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-lg.png",
+        "type": "file",
+        "md5": "2fc81b24e1944b6c7cf27313e922b8fc"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-md.png",
+        "type": "file",
+        "md5": "be127b9b8ffd5111bd8a9472eb38d2b0"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-sm.png",
+        "type": "file",
+        "md5": "558847c0c012df5e6444bbab6df364e7"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-xl.png",
+        "type": "file",
+        "md5": "df7a5335813f82201a27593fa9e2b7e8"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-xs.png",
+        "type": "file",
+        "md5": "f215c9970687234900dc2eb2e47886b0"
+    },
+    {
         "path": "media/tags",
         "type": "directory",
         "md5": false
@@ -477,7 +557,12 @@
     {
         "path": "requirements.html",
         "type": "file",
-        "md5": "9c371bb77dd65402bf6664f158fec1ed"
+        "md5": "e08eac6024d81a0aa8186f7b6ce627af"
+    },
+    {
+        "path": "research.html",
+        "type": "file",
+        "md5": "0f1767ce178931d508c9c45a4c3d0fe7"
     },
     {
         "path": "robots.txt",

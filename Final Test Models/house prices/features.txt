@@ -1,0 +1,7 @@
+'bedrooms', 'bathrooms', 'sqft_living', 'sqft_lot', 'floors', 'waterfront', 
+            'view', 'condition', 'grade', 'sqft_above', 'sqft_basement', 'age_binned_<1',  
+            'age_binned_1-5', 'age_binned_6-10', 'age_binned_11-25', 'age_binned_26-50', 
+            'age_binned_51-75', 'age_binned_76-100', 'age_binned_>100', 'age_rnv_binned_<1', 
+            'age_rnv_binned_1-5', 'age_rnv_binned_6-10', 'age_rnv_binned_11-25', 
+            'age_rnv_binned_26-50', 'age_rnv_binned_51-75', 'age_rnv_binned_>75', 
+            'zipcode', 'lat', 'long', 'sqft_living15', 'sqft_lot15'

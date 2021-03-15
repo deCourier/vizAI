@@ -67,9 +67,6 @@ def isDir(mod, filename):
         if x.endswith(".pb"):
             model = keras.models.load_model(mod)
             return model
-        if x.endswith(".ilearner"):
-            model = model.load(mod).model
-            return model
 
 #Explanation function
 import anvil.media
@@ -83,9 +80,9 @@ def returnWeb():
         explainer = TabularExplainer(model, x_train)
     global_explanation = explainer.explain_global(x_test)
     from interpret_community.widget import ExplanationDashboard
-    ExplanationDashboard(global_explanation, model, datasetX=x_test, true_y=y_test, port=8000)
+    ExplanationDashboard(global_explanation, model, datasetX=x_test, true_y=y_test, port=80)
     session += 1
-    return ("8000/"+str(session))
+    return ("http://localhost:80/"+str(session))
 
 
 #Web app's upload functions
@@ -93,7 +90,6 @@ import anvil.media
 @anvil.server.callable
 def uploadModel(file, filename):
     import joblib
-    from reformat import formatModel as fM
     import os
     import tensorflow
     from tensorflow import keras
@@ -106,7 +102,6 @@ def uploadModel(file, filename):
 import anvil.media
 @anvil.server.callable
 def uploadX_test(file, filename):
-    from reformat import formatDataset as fD
     import joblib
     global x_test
     with anvil.media.TempFile(file) as file_path:
@@ -116,7 +111,6 @@ def uploadX_test(file, filename):
 import anvil.media
 @anvil.server.callable
 def uploadX_train(file, filename):
-    from reformat import formatDataset as fD
     import joblib
     global x_train
     with anvil.media.TempFile(file) as file_path:
@@ -126,7 +120,6 @@ def uploadX_train(file, filename):
 import anvil.media
 @anvil.server.callable
 def uploadY_test(file, filename):
-    from reformat import formatDataset as fD
     import joblib
     global y_test
     with anvil.media.TempFile(file) as file_path:
@@ -136,7 +129,6 @@ def uploadY_test(file, filename):
 import anvil.media
 @anvil.server.callable
 def uploadY_train(file, filename):
-    from reformat import formatDataset as fD
     import joblib
     global y_train
     with anvil.media.TempFile(file) as file_path:
@@ -174,7 +166,7 @@ def printVars():
 @anvil.server.callable
 def setFeatures(string):
     global features
-    features = string.split("; ")
+    features = string.split(", ")
     return features
 
 

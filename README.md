@@ -76,11 +76,11 @@ of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
-  - **Dylan Hoi** - *Integrated web app with Azure ML* -
+  - **Dylan Hoi** - *UI Designer, Researcher, Tester* -
     [deCourier](https://github.com/deCourier)
-  - **Julian Popovski** - *Led project + liased with clients* -
+  - **Julian Popovski** - *Team Leader, Project Partner Liaison, Programmer* -
     [JulianPJ](https://github.com/JulianPJ)
-  - **James Chang** - *Trained Azure ML models + Maintained Dev Blogs* -
+  - **James Chang** - *Report Editor, Researcher, Tester* -
     [JamesC587](https://github.com/JamesC587)
 
 

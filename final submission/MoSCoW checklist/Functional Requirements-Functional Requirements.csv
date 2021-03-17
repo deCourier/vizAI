@@ -1,0 +1,8 @@
+Requirement,Priority,Checklist
+Deployable in at least one area,Must have,√
+Centred around Microsoft technologies,Must have,√
+Workable visualisation prototype,Must have,√
+Proof of model visualisation,Must have,√
+Source industry level standard datasets,Should have,√
+Applicable to any model and data pairs,Would like to have,×
+Provide own analytics to output graph,Would like to have,√

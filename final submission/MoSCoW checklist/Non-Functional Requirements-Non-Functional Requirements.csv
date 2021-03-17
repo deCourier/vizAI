@@ -1,0 +1,9 @@
+Requirement,Priority,Checklist
+"Intuitive, easy to use for all users",Must have,√
+No need for explicit ML knowledge to use,Must have,√
+Less than $100 a month maintenance cost,Must have,√
+Relatively small datasets to test with,Should have,√
+Test product with public data and models,Should have,√
+Interactive GUI for neat data presentation,Could have,√
+Web-based app for easy access and use,Could have,√
+Use AR technology to display data in 3 dimensions,Could have,×

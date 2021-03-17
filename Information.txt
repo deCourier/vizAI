@@ -1,0 +1,20 @@
+Information Page:
+
+What type of models can be uploaded, and how to upload them.
+Scikit models, or any model implementing a predict function which conforms to the Scikit convention can be interpreted. For Scikit, Pytorch and custom models, pickle the model using Joblib's dump function (save as .pkl file). For Keras models, use the inbuilt save function and save it in a .h5 format.
+
+What type of dataset can be uploaded, and how to upload them.
+Any 2 dimensional tabular dataset in format numpy.array, pandas.DataFrame, iml.datatypes.DenseData, or scipy.sparse.csr_matrix can be interpreted. Does not work on image based, natural language based or 3 Dimensional tabular datasets. The way to save the dataset is to save the post split X_train, X_test/val, y_train and y_test/val as .pkl files through Joblib's dump function.
+
+What to do if the names of the features show as numbers.
+If the names of the features on the graph show up as numbers instead of the feature names, then you should extract the feature names from the program and paste them into the Data Features form. The way they should be entered is: feature, feature, ..., feature. The features should be split with a comma and a space.
+
+Terminology:
+X - The X values are the values which are used to make the predictions.
+y - The y values are the values which are being predicted.
+Train - The train values are the data which have been sectioned off of the original dataset to train the model.
+Test/val - The test or val (validation) values are the data which have been sectioned off to test the model after it has been trained.
+Model - The model is trained to predict values which we specify (y values) based on the relevant data provided (X values).
+Data features - The labels for the X values, only needed if they are not stored in the dataframe.
+Interpretation/Explanation - This is the process of checking which parts of the data (X values) are most relevant to the model, and which parts cause the model to be more likely to make a prediction
+

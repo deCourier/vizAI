@@ -16,7 +16,8 @@ Visualising Explainable AI
 
 These instructions will get you a copy of the project up and running on
 your local machine for development and testing purposes. If you wish to
-just use our project, check out the project website.
+just use our project, check out the project website. Read through the 
+information.txt file for help on using the website.
 
 ### Prerequisites and Installing
 

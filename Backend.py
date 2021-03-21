@@ -80,8 +80,8 @@ def returnWeb():
         explainer = TabularExplainer(model, x_train)
     global_explanation = explainer.explain_global(x_test)
     from interpret_community.widget import ExplanationDashboard
-    ExplanationDashboard(global_explanation, model, datasetX=x_test, true_y=y_test, port=80)
     session += 1
+    ExplanationDashboard(global_explanation, model, datasetX=x_test, true_y=y_test, port=80)
     return ("http://localhost:80/"+str(session))
 
 

@@ -1,0 +1,11 @@
+interpret-community
+tensorflow
+keras
+anvil
+anvil-uplink
+flask
+flask-cors
+ipython==7.16.1
+ipywidgets
+gevent==20.9.0
+interpret-core==0.2.1

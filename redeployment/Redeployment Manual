@@ -1,0 +1,7 @@
+1. Install pyton and pip (IDLE 3.8.8, custom install with all options selected on both pages)
+2. Instal VS Build Tools 2019 (go to https://visualstudio.microsoft.com/downloads/ scroll down, under Tools for Visual Studio 2019)
+3. Install the requirements.txt pip list
+4. Change the Backend.py code as follows:
+Line 83: Change port to whichever localhost port you want the graphs to show on, add argument local_ip="#IP of VM/Server" if running on an open port.
+Line 85: If changed port in line 83, change "http://localhost:80/" within return statement to "http://localhost:" + port which you changed in line 83.
+         If added local_ip in line 83, change "http://localhost:80/" to the ip or domain name of the server you are running the code on.

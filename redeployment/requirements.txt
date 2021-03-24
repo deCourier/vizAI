@@ -5,6 +5,6 @@ anvil
 anvil-uplink
 flask
 flask-cors
-ipython
+ipython==7.16.1
 ipywidgets
 gevent

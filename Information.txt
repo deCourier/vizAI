@@ -1,4 +1,9 @@
 Information Page:
+How to use:
+Upload the all relevant files where they are requested, "test" may be replaced with "val" in your file names (e.g. X_val where it asks for X_test).
+Click "Generate Explanation Graphs" once all the files are uploaded.
+Some explanations may up to 5 minutes to load, so give it time.
+After the explanation is done, click "Open Explanation in new tab", and your explanation is there.
 
 What type of models can be uploaded, and how to upload them.
 Scikit models, or any model implementing a predict function which conforms to the Scikit convention can be interpreted. For Scikit, Pytorch and custom models, pickle the model using Joblib's dump function (save as .pkl file). For Keras models, use the inbuilt save function and save it in a .h5 format.

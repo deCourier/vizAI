@@ -1,0 +1,228 @@
+is_package: true
+container:
+  type: HtmlTemplate
+  properties: {tooltip: '', background: '', foreground: '', border: '', visible: true,
+    role: null, html: '@theme:standard-page.html'}
+components:
+- type: ColumnPanel
+  properties: {col_widths: '{}'}
+  name: content_panel
+  layout_properties: {slot: default}
+  components:
+  - type: Button
+    properties: {role: null, align: center, tooltip: '', border: '', enabled: false,
+      foreground: '', visible: true, text: Generate explanation graphs, font_size: null,
+      font: '', spacing_above: small, icon_align: left, spacing_below: small, italic: false,
+      background: '', bold: false, underline: false, icon: ''}
+    name: button_1
+    layout_properties: {grid_position: 'LZGXVD,EQJEXA', slot: default}
+    event_bindings: {click: button_1_click}
+  - type: Link
+    properties: {role: null, url: '', align: center, tooltip: '', border: '', foreground: '',
+      visible: true, text: '', font_size: 20, wrap_on: mobile, font: '', col_spacing: medium,
+      spacing_above: small, icon_align: left, col_widths: '{}', spacing_below: small,
+      italic: false, background: '', bold: true, underline: false, icon: ''}
+    name: link_1
+    layout_properties: {grid_position: 'ZGWVCG,YFSACS'}
+    event_bindings: {click: link_1_click}
+    components: []
+  - type: FileLoader
+    properties:
+      role: null
+      show_state: true
+      align: center
+      tooltip: ''
+      border: ''
+      file_types: null
+      enabled: true
+      files: []
+      foreground: ''
+      visible: true
+      text: Upload Model
+      font_size: null
+      font: ''
+      spacing_above: small
+      icon_align: left
+      spacing_below: small
+      italic: false
+      file: null
+      background: ''
+      bold: false
+      underline: false
+      multiple: false
+      icon: fa:upload
+    name: file_loader_1
+    layout_properties: {grid_position: 'GUXBIS,FLSPTE'}
+    event_bindings: {change: file_loader_1_change}
+  - type: Label
+    properties: {}
+    name: label_1
+    layout_properties: {grid_position: 'ITGDBQ,KAOEVS'}
+  - type: FileLoader
+    properties:
+      role: null
+      show_state: true
+      align: center
+      tooltip: ''
+      border: ''
+      file_types: null
+      enabled: true
+      files: []
+      foreground: ''
+      visible: true
+      text: Upload X_train
+      font_size: null
+      font: ''
+      spacing_above: small
+      icon_align: left
+      spacing_below: small
+      italic: false
+      file: null
+      background: ''
+      bold: false
+      underline: false
+      multiple: false
+      icon: fa:upload
+    name: file_loader_2
+    layout_properties: {grid_position: 'UQGRMR,SZZQSE'}
+    event_bindings: {change: file_loader_2_change}
+  - type: Label
+    properties: {}
+    name: label_2
+    layout_properties: {grid_position: 'MLSZCM,CQHTJW'}
+  - type: FileLoader
+    properties:
+      role: null
+      show_state: true
+      align: center
+      tooltip: ''
+      border: ''
+      file_types: null
+      enabled: true
+      files: []
+      foreground: ''
+      visible: true
+      text: Upload x_test
+      font_size: null
+      font: ''
+      spacing_above: small
+      icon_align: left
+      spacing_below: small
+      italic: false
+      file: null
+      background: ''
+      bold: false
+      underline: false
+      multiple: false
+      icon: fa:upload
+    name: file_loader_3
+    layout_properties: {grid_position: 'DIBGRU,ESWVON'}
+    event_bindings: {change: file_loader_3_change}
+  - type: Label
+    properties: {}
+    name: label_4
+    layout_properties: {grid_position: 'UMBANQ,XXROYX'}
+  - type: FileLoader
+    properties:
+      role: null
+      show_state: true
+      align: center
+      tooltip: ''
+      border: ''
+      file_types: null
+      enabled: true
+      files: []
+      foreground: ''
+      visible: true
+      text: Upload y_train
+      font_size: null
+      font: ''
+      spacing_above: small
+      icon_align: left
+      spacing_below: small
+      italic: false
+      file: null
+      background: ''
+      bold: false
+      underline: false
+      multiple: false
+      icon: fa:upload
+    name: file_loader_4
+    layout_properties: {grid_position: 'VEHILO,XKTMUB'}
+    event_bindings: {change: file_loader_4_change}
+  - type: Label
+    properties: {}
+    name: label_5
+    layout_properties: {grid_position: 'QCXYTC,UIKERW'}
+  - type: FileLoader
+    properties:
+      role: null
+      show_state: true
+      align: center
+      tooltip: ''
+      border: ''
+      file_types: null
+      enabled: true
+      files: []
+      foreground: ''
+      visible: true
+      text: Upload y_test
+      font_size: null
+      font: ''
+      spacing_above: small
+      icon_align: left
+      spacing_below: small
+      italic: false
+      file: null
+      background: ''
+      bold: false
+      underline: false
+      multiple: false
+      icon: fa:upload
+    name: file_loader_5
+    layout_properties: {grid_position: 'AYYYKN,MMBIZB'}
+    event_bindings: {change: file_loader_5_change}
+  - type: Label
+    properties: {}
+    name: label_6
+    layout_properties: {grid_position: 'JNGCSR,WDZUMQ'}
+  - type: TextBox
+    properties: {role: null, align: center, hide_text: false, tooltip: '', placeholder: Data Features (OPTIONAL),
+      border: '', enabled: true, foreground: '', visible: true, text: '', font_size: null,
+      font: '', spacing_above: small, type: text, spacing_below: small, italic: false,
+      background: '', bold: true, underline: false}
+    name: text_box_1
+    layout_properties: {grid_position: 'TTRRXJ,EOECIH'}
+    event_bindings: {pressed_enter: text_box_1_pressed_enter}
+  - type: Label
+    properties: {}
+    name: label_3
+    layout_properties: {grid_position: 'DTXAZX,TVVFQZ'}
+  - type: Button
+    properties: {role: null, align: left, tooltip: '', border: '', enabled: true,
+      foreground: '', visible: true, text: Reset data features, font_size: null, font: '',
+      spacing_above: small, icon_align: left, spacing_below: small, italic: false,
+      background: '', bold: false, underline: false, icon: ''}
+    name: button_2
+    layout_properties: {grid_position: 'RERRGY,SCWEIM'}
+    event_bindings: {click: button_2_click}
+  - type: Button
+    properties: {role: null, align: center, tooltip: '', border: '', enabled: true,
+      foreground: '', visible: true, text: Reset all, font_size: null, font: '', spacing_above: small,
+      icon_align: left, spacing_below: small, italic: false, background: '', bold: false,
+      underline: false, icon: ''}
+    name: button_4
+    layout_properties: {grid_position: 'RERRGY,FQFLNX'}
+    event_bindings: {click: button_4_click}
+- type: FlowPanel
+  properties: {}
+  name: navbar_links
+  layout_properties: {slot: nav-right}
+- type: Label
+  properties: {role: null, align: left, tooltip: '', border: '', foreground: '', visible: true,
+    text: VizAI, font_size: null, font: '', spacing_above: small, icon_align: left,
+    spacing_below: small, italic: false, background: '', bold: false, underline: false,
+    icon: ''}
+  name: label_7
+  layout_properties: {slot: title}
+item_type: {table_id: null}

@@ -1,0 +1,13 @@
+dependencies:
+- app_id: THSPEQYPQ4PFGBSI
+  version: {dev: false}
+services: []
+package_name: Alpha_ver_
+allow_embedding: true
+name: Alpha ver.
+runtime_options: {version: 2, client_version: '3', server_version: python3-sandbox}
+metadata: {}
+startup_form: Form1
+native_deps: {head_html: ''}
+db_schema: []
+renamed: true

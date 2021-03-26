@@ -1,6 +1,6 @@
 # vizAI
 
-Visualising Explainable AI
+Visualising Explainable AI - A novelty project for non-data science people to get acquainted with Machine Learning
 
 ## Summary
 

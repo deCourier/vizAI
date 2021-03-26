@@ -1,0 +1,1692 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "6a5eb732510a2d015fed2ed1323f4b8d"
+    },
+    {
+        "path": "algorithms.html",
+        "type": "file",
+        "md5": "ea0c981e383bcdd2359b2e11868e34d8"
+    },
+    {
+        "path": "appendices.html",
+        "type": "file",
+        "md5": "c3d0c4398a7e4989aaf4a9f6ac651ed9"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "56efcaf74996596f564d8bad02778d48"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "49f7729c0e61efe6d699137b011dbd7a"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "932f325ea2f7fb1467e84c97f137e0f9"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f4c4d35432d0e17d212f2fae4e0f8247"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "350bb511eba46f390e88bbea74abb0ac"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/james-chang",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/james-chang/index.html",
+        "type": "file",
+        "md5": "36b2511026455816965804316d954c94"
+    },
+    {
+        "path": "authors/james-chang/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/james-chang/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/james-chang/page/2/index.html",
+        "type": "file",
+        "md5": "358079a6f8cc7783bbf9141fc8fafd9e"
+    },
+    {
+        "path": "authors/james-chang/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/james-chang/page/3/index.html",
+        "type": "file",
+        "md5": "3944ff9a21dec907d90a225f3c2d3f9d"
+    },
+    {
+        "path": "development-blog.html",
+        "type": "file",
+        "md5": "2a3e09fd5c96093a4711b5a0361f66df"
+    },
+    {
+        "path": "evaluation.html",
+        "type": "file",
+        "md5": "89e5cacfe0a0a970505c3bd97e2c12aa"
+    },
+    {
+        "path": "example.html",
+        "type": "file",
+        "md5": "64bebd529eb83983f89a97083b4e6e69"
+    },
+    {
+        "path": "implementation.html",
+        "type": "file",
+        "md5": "1b5004c2a1c0008d0f6243114248559a"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "04e3b340bba723f3d15426a627bd5826"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/gantt-chart.png",
+        "type": "file",
+        "md5": "9e2346b67b4b373ef96878fca26eec97"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/gantt-chart-2xl.png",
+        "type": "file",
+        "md5": "2049940405c9558908017c333658a3ba"
+    },
+    {
+        "path": "/media/posts/1/responsive/gantt-chart-lg.png",
+        "type": "file",
+        "md5": "74df64916468ca02974bd44dfb1b7b4f"
+    },
+    {
+        "path": "/media/posts/1/responsive/gantt-chart-md.png",
+        "type": "file",
+        "md5": "cdc9e98fc5438d161ff346974f3e2325"
+    },
+    {
+        "path": "/media/posts/1/responsive/gantt-chart-sm.png",
+        "type": "file",
+        "md5": "41b67d7b8061dbc62a8a510bb13352a7"
+    },
+    {
+        "path": "/media/posts/1/responsive/gantt-chart-xl.png",
+        "type": "file",
+        "md5": "2b1f58e6c231b9060b80c6ea5f0feb3c"
+    },
+    {
+        "path": "/media/posts/1/responsive/gantt-chart-xs.png",
+        "type": "file",
+        "md5": "02fb4432cea10996cb182a2312d3cebc"
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/Django-algorithm.png",
+        "type": "file",
+        "md5": "cd13f76e8de1125595597121e8bb3c01"
+    },
+    {
+        "path": "/media/posts/10/LIME-algorithm.png",
+        "type": "file",
+        "md5": "ce204d30812c3e43429d8cd0eb5b297c"
+    },
+    {
+        "path": "/media/posts/10/SHAP-function.png",
+        "type": "file",
+        "md5": "69a803b12fb0c9a1e5e66aac31230071"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/Django-algorithm-2xl.png",
+        "type": "file",
+        "md5": "fdd13aa1f8a505b24043c0a61a91f5b6"
+    },
+    {
+        "path": "/media/posts/10/responsive/Django-algorithm-lg.png",
+        "type": "file",
+        "md5": "fdd13aa1f8a505b24043c0a61a91f5b6"
+    },
+    {
+        "path": "/media/posts/10/responsive/Django-algorithm-md.png",
+        "type": "file",
+        "md5": "fdd13aa1f8a505b24043c0a61a91f5b6"
+    },
+    {
+        "path": "/media/posts/10/responsive/Django-algorithm-sm.png",
+        "type": "file",
+        "md5": "ac2687d40a9b71f4691da948c95115ae"
+    },
+    {
+        "path": "/media/posts/10/responsive/Django-algorithm-xl.png",
+        "type": "file",
+        "md5": "fdd13aa1f8a505b24043c0a61a91f5b6"
+    },
+    {
+        "path": "/media/posts/10/responsive/Django-algorithm-xs.png",
+        "type": "file",
+        "md5": "e32b1f90e3fe9a21f9b17fb7be6918a9"
+    },
+    {
+        "path": "/media/posts/10/responsive/LIME-algorithm-2xl.png",
+        "type": "file",
+        "md5": "5601d16a6753d2d56d557f5d235d4d58"
+    },
+    {
+        "path": "/media/posts/10/responsive/LIME-algorithm-lg.png",
+        "type": "file",
+        "md5": "5601d16a6753d2d56d557f5d235d4d58"
+    },
+    {
+        "path": "/media/posts/10/responsive/LIME-algorithm-md.png",
+        "type": "file",
+        "md5": "357d6bc3db8b84ca6ad4e4cc56246226"
+    },
+    {
+        "path": "/media/posts/10/responsive/LIME-algorithm-sm.png",
+        "type": "file",
+        "md5": "a6ba872eb0c32e96e53f2a94a3ddb81c"
+    },
+    {
+        "path": "/media/posts/10/responsive/LIME-algorithm-xl.png",
+        "type": "file",
+        "md5": "5601d16a6753d2d56d557f5d235d4d58"
+    },
+    {
+        "path": "/media/posts/10/responsive/LIME-algorithm-xs.png",
+        "type": "file",
+        "md5": "5859bc652e9232c42796be65e1aeed8f"
+    },
+    {
+        "path": "/media/posts/10/responsive/SHAP-function-2xl.png",
+        "type": "file",
+        "md5": "dfc4a29bc5a3084330d7238e35dc93d7"
+    },
+    {
+        "path": "/media/posts/10/responsive/SHAP-function-lg.png",
+        "type": "file",
+        "md5": "dfc4a29bc5a3084330d7238e35dc93d7"
+    },
+    {
+        "path": "/media/posts/10/responsive/SHAP-function-md.png",
+        "type": "file",
+        "md5": "dfc4a29bc5a3084330d7238e35dc93d7"
+    },
+    {
+        "path": "/media/posts/10/responsive/SHAP-function-sm.png",
+        "type": "file",
+        "md5": "dfc4a29bc5a3084330d7238e35dc93d7"
+    },
+    {
+        "path": "/media/posts/10/responsive/SHAP-function-xl.png",
+        "type": "file",
+        "md5": "dfc4a29bc5a3084330d7238e35dc93d7"
+    },
+    {
+        "path": "/media/posts/10/responsive/SHAP-function-xs.png",
+        "type": "file",
+        "md5": "3f841bc8c2d2d087253fbdc8d695ad33"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/Screenshot-2021-03-09-at-18.29.08-2.png",
+        "type": "file",
+        "md5": "5a9197e8cfd50bbba63a0d460ccf784c"
+    },
+    {
+        "path": "/media/posts/2/Screenshot-2021-03-09-at-18.36.51-2.png",
+        "type": "file",
+        "md5": "cbd77a095191825e7ff0bc52aa5eb968"
+    },
+    {
+        "path": "/media/posts/2/Screenshot-2021-03-09-at-18.37.02.png",
+        "type": "file",
+        "md5": "710802ef3f91a78915efe08f92a0d519"
+    },
+    {
+        "path": "/media/posts/2/Screenshot-2021-03-09-at-18.51.37.png",
+        "type": "file",
+        "md5": "fd1b66262733cb1dbdebd3d2e2acdefa"
+    },
+    {
+        "path": "/media/posts/2/Use-Case-Diagram.png",
+        "type": "file",
+        "md5": "d84e80f7492e0714580e2a4771bccb7d"
+    },
+    {
+        "path": "/media/posts/2/Use-Case-list-4.jpg",
+        "type": "file",
+        "md5": "4fb528047edca99a6bac361b4b1703d2"
+    },
+    {
+        "path": "media/posts/2/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/gallery/Screenshot-2021-03-09-at-18.37.02.png",
+        "type": "file",
+        "md5": "710802ef3f91a78915efe08f92a0d519"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.29.08-2-2xl.png",
+        "type": "file",
+        "md5": "d99750049b235951559b4e083fb6fa64"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.29.08-2-lg.png",
+        "type": "file",
+        "md5": "c6694d673d6159a16572c5ecee94d44c"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.29.08-2-md.png",
+        "type": "file",
+        "md5": "037a811232540e06dfe7c39c51d892e7"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.29.08-2-sm.png",
+        "type": "file",
+        "md5": "8e9c79080641cf036dcbc1d9135f942d"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.29.08-2-xl.png",
+        "type": "file",
+        "md5": "d99750049b235951559b4e083fb6fa64"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.29.08-2-xs.png",
+        "type": "file",
+        "md5": "6ecac676fe3a6b11e681889d19bcd82e"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.36.51-2-2xl.png",
+        "type": "file",
+        "md5": "352c6ff6a0e1a6a8375acb342b101e3c"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.36.51-2-lg.png",
+        "type": "file",
+        "md5": "b11bfbdb2e7bf6adcb47bb414daf6845"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.36.51-2-md.png",
+        "type": "file",
+        "md5": "2fad840674e54c15faa7f388fca76391"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.36.51-2-sm.png",
+        "type": "file",
+        "md5": "ff810401fae0eb3ba5921b8f898bd4a9"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.36.51-2-xl.png",
+        "type": "file",
+        "md5": "352c6ff6a0e1a6a8375acb342b101e3c"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.36.51-2-xs.png",
+        "type": "file",
+        "md5": "76243608744ca72e524739364e670646"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.37.02-2xl.png",
+        "type": "file",
+        "md5": "e1410f724fcb396da56f12dd06584533"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.37.02-lg.png",
+        "type": "file",
+        "md5": "f5d53c410c10696f9f063a87727d669a"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.37.02-md.png",
+        "type": "file",
+        "md5": "c469b1995ba4e9fbf1259a803fac27db"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.37.02-sm.png",
+        "type": "file",
+        "md5": "01e31269e489220e72d73f8e8bd1292b"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.37.02-xl.png",
+        "type": "file",
+        "md5": "e1410f724fcb396da56f12dd06584533"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.37.02-xs.png",
+        "type": "file",
+        "md5": "9452ebf7b87a826ed329831680e84499"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.51.37-2xl.png",
+        "type": "file",
+        "md5": "c1cd38229b9ffd0f13abbd3386c2734d"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.51.37-lg.png",
+        "type": "file",
+        "md5": "47ddb19abf43b9776f1b927b54b688bb"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.51.37-md.png",
+        "type": "file",
+        "md5": "137ad47212d021e42890588419d56f42"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.51.37-sm.png",
+        "type": "file",
+        "md5": "24dae6953e33d3bf6b5a88ddbfa5671d"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.51.37-xl.png",
+        "type": "file",
+        "md5": "940f715dbbf397a90aa14cc82b622440"
+    },
+    {
+        "path": "/media/posts/2/responsive/Screenshot-2021-03-09-at-18.51.37-xs.png",
+        "type": "file",
+        "md5": "46422fe4adeb9efb90ed276c940e86ad"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-Diagram-2xl.png",
+        "type": "file",
+        "md5": "e023c126b69a42312f78156c73bf7bfe"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-Diagram-lg.png",
+        "type": "file",
+        "md5": "4344cb3ec0ddc301977aab4796a2f3fc"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-Diagram-md.png",
+        "type": "file",
+        "md5": "386948490a4029f6ec29de4680ef6234"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-Diagram-sm.png",
+        "type": "file",
+        "md5": "87a2673eeee79da74c9132e14dc13c56"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-Diagram-xl.png",
+        "type": "file",
+        "md5": "e023c126b69a42312f78156c73bf7bfe"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-Diagram-xs.png",
+        "type": "file",
+        "md5": "6b93611826368ceaa347ddb26a6648b7"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-list-4-2xl.jpg",
+        "type": "file",
+        "md5": "9b527107a55c351a525bddea2c3c5002"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-list-4-lg.jpg",
+        "type": "file",
+        "md5": "186df1529a44e87a66a944e23bbe14c2"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-list-4-md.jpg",
+        "type": "file",
+        "md5": "3698deb7d78f1fb2925fd2546ecd4619"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-list-4-sm.jpg",
+        "type": "file",
+        "md5": "e0445e2c4409f1d864c6157ded028a46"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-list-4-xl.jpg",
+        "type": "file",
+        "md5": "c0239cf6b21f16634e045f58e31056fb"
+    },
+    {
+        "path": "/media/posts/2/responsive/Use-Case-list-4-xs.jpg",
+        "type": "file",
+        "md5": "04e28d7044d5553f4ccd215c2f0a0f2d"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/Screenshot-2021-03-11-at-23.34.24.png",
+        "type": "file",
+        "md5": "634939bdbde1fb5ab29c6dbdcf9abe9a"
+    },
+    {
+        "path": "/media/posts/4/Screenshot-2021-03-11-at-23.46.26.png",
+        "type": "file",
+        "md5": "2c7ab4135df07125b7f141676fe426ec"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-2xl.png",
+        "type": "file",
+        "md5": "70e3821dc03e5654670694040203b905"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-lg.png",
+        "type": "file",
+        "md5": "eb993e5cb7a472165c49f8992ca43bb5"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-md.png",
+        "type": "file",
+        "md5": "87b86406a375ccdade3c0be0c7e2777e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-sm.png",
+        "type": "file",
+        "md5": "fcb0bfd07ae049a18b40431f4abc2d38"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-xl.png",
+        "type": "file",
+        "md5": "3d2da78580529127a5c91ea84e3fe758"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.34.24-xs.png",
+        "type": "file",
+        "md5": "6032b47b4ae267e5317259fcdbb80116"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-2xl.png",
+        "type": "file",
+        "md5": "d2743af77c3b371d0d73c2789ad9e927"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-lg.png",
+        "type": "file",
+        "md5": "4dca082a89719f5c9e449746d33a4c21"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-md.png",
+        "type": "file",
+        "md5": "caf73b6d72d1654407c7629095f27667"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-sm.png",
+        "type": "file",
+        "md5": "4c7328fbd4a10b53192765512cf1a33b"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-xl.png",
+        "type": "file",
+        "md5": "cb0991494ab2e8d4995272f2f4b68216"
+    },
+    {
+        "path": "/media/posts/4/responsive/Screenshot-2021-03-11-at-23.46.26-xs.png",
+        "type": "file",
+        "md5": "9e73fab754b78b3898bc6fad4a770c0d"
+    },
+    {
+        "path": "/media/posts/4/responsive/xai-framework-2xl.png",
+        "type": "file",
+        "md5": "702502c6a2998268000f635e8f4586bf"
+    },
+    {
+        "path": "/media/posts/4/responsive/xai-framework-lg.png",
+        "type": "file",
+        "md5": "0643f5f6183d7413095255e8403e9046"
+    },
+    {
+        "path": "/media/posts/4/responsive/xai-framework-md.png",
+        "type": "file",
+        "md5": "78ea7a4190d933c4a300366f4a1764af"
+    },
+    {
+        "path": "/media/posts/4/responsive/xai-framework-sm.png",
+        "type": "file",
+        "md5": "ac98cdaaa3c541aafa6d11a601d73ba6"
+    },
+    {
+        "path": "/media/posts/4/responsive/xai-framework-xl.png",
+        "type": "file",
+        "md5": "d67b9e62981badb45bc36f5adccdf408"
+    },
+    {
+        "path": "/media/posts/4/responsive/xai-framework-xs.png",
+        "type": "file",
+        "md5": "3e0c0db4859a2974fa9df4fdd889641e"
+    },
+    {
+        "path": "/media/posts/4/xai-framework.png",
+        "type": "file",
+        "md5": "9c60b1f48988c3fcedc283874a6e69e2"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/Figma-1-2.png",
+        "type": "file",
+        "md5": "04bfcd92dad53e5165a056f1123436c4"
+    },
+    {
+        "path": "/media/posts/5/Figma-2.png",
+        "type": "file",
+        "md5": "0c87010fa65a750b9c474f048d9f5a36"
+    },
+    {
+        "path": "/media/posts/5/Picture-1.png",
+        "type": "file",
+        "md5": "fc9a60a2cd769cb8fe6a54130b68981b"
+    },
+    {
+        "path": "/media/posts/5/Picture-2.png",
+        "type": "file",
+        "md5": "e7de90455cdf47eb0a841d46e1bd7759"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-1-2-2xl.png",
+        "type": "file",
+        "md5": "2d83928a21e87016338db237b26da4b8"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-1-2-lg.png",
+        "type": "file",
+        "md5": "bbad4fd3574d12f186eb0c9338766768"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-1-2-md.png",
+        "type": "file",
+        "md5": "561c1f790589bd1e252b2fc7c82f3f1f"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-1-2-sm.png",
+        "type": "file",
+        "md5": "13b81fec354db2f3efe220c307a464ab"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-1-2-xl.png",
+        "type": "file",
+        "md5": "6e4398bbdd1ada4ffed7066a8b158220"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-1-2-xs.png",
+        "type": "file",
+        "md5": "d9e4adff250a004fbee44a960f7fcae5"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-2-2xl.png",
+        "type": "file",
+        "md5": "ac13e537e2ee478bb566331948453371"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-2-lg.png",
+        "type": "file",
+        "md5": "c844dfc4bd4f91f4ae5e4e134122037e"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-2-md.png",
+        "type": "file",
+        "md5": "03bef3a2bbb5dd941f63c72bb0993194"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-2-sm.png",
+        "type": "file",
+        "md5": "a3f8c0aa5d59344a945e3101f846b9e1"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-2-xl.png",
+        "type": "file",
+        "md5": "9edee07b74e99b253dc7a8dd370c0eb2"
+    },
+    {
+        "path": "/media/posts/5/responsive/Figma-2-xs.png",
+        "type": "file",
+        "md5": "f2e7157a94892a4796034760d272a334"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-1-2xl.png",
+        "type": "file",
+        "md5": "0af6a83a6345ac3d7b12365562d601e0"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-1-lg.png",
+        "type": "file",
+        "md5": "0af6a83a6345ac3d7b12365562d601e0"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-1-md.png",
+        "type": "file",
+        "md5": "0af6a83a6345ac3d7b12365562d601e0"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-1-sm.png",
+        "type": "file",
+        "md5": "ed70c6ea5edca6fbd98c1e2dbae8caf9"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-1-xl.png",
+        "type": "file",
+        "md5": "0af6a83a6345ac3d7b12365562d601e0"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-1-xs.png",
+        "type": "file",
+        "md5": "8ffc164a7ed7dc99109e1f85c3a8acc2"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-2-2xl.png",
+        "type": "file",
+        "md5": "eecfa7fca6778992888f55ce863e1921"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-2-lg.png",
+        "type": "file",
+        "md5": "69a37824166e7f622f0c419f6b71cb23"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-2-md.png",
+        "type": "file",
+        "md5": "b5b0ed34690bd47eb80ff68e879f2bef"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-2-sm.png",
+        "type": "file",
+        "md5": "fa94da75f93afd9a58fc1870b306a5c8"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-2-xl.png",
+        "type": "file",
+        "md5": "3ced539e48eda21010755a98d80829fb"
+    },
+    {
+        "path": "/media/posts/5/responsive/Picture-2-xs.png",
+        "type": "file",
+        "md5": "1f0b43fbd6dd0cf8eb277796fd196d67"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/Site-Map.png",
+        "type": "file",
+        "md5": "3cbfee2922b29b6a42f56eedb494cae4"
+    },
+    {
+        "path": "/media/posts/6/System-Architecture.jpg",
+        "type": "file",
+        "md5": "781a1af7d8ff53289071c53fb5ef4975"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/Site-Map-2xl.png",
+        "type": "file",
+        "md5": "eac289e925b4d1be5a27c9614aa42c8e"
+    },
+    {
+        "path": "/media/posts/6/responsive/Site-Map-lg.png",
+        "type": "file",
+        "md5": "eac289e925b4d1be5a27c9614aa42c8e"
+    },
+    {
+        "path": "/media/posts/6/responsive/Site-Map-md.png",
+        "type": "file",
+        "md5": "eac289e925b4d1be5a27c9614aa42c8e"
+    },
+    {
+        "path": "/media/posts/6/responsive/Site-Map-sm.png",
+        "type": "file",
+        "md5": "eac289e925b4d1be5a27c9614aa42c8e"
+    },
+    {
+        "path": "/media/posts/6/responsive/Site-Map-xl.png",
+        "type": "file",
+        "md5": "eac289e925b4d1be5a27c9614aa42c8e"
+    },
+    {
+        "path": "/media/posts/6/responsive/Site-Map-xs.png",
+        "type": "file",
+        "md5": "8d2d961b86c11aeb1d52ff86b882602a"
+    },
+    {
+        "path": "/media/posts/6/responsive/System-Architecture-2xl.jpg",
+        "type": "file",
+        "md5": "36b27806d1f862e478bac9700510335e"
+    },
+    {
+        "path": "/media/posts/6/responsive/System-Architecture-lg.jpg",
+        "type": "file",
+        "md5": "4ef3432e708fa583c61d9b6cb1b0d9fa"
+    },
+    {
+        "path": "/media/posts/6/responsive/System-Architecture-md.jpg",
+        "type": "file",
+        "md5": "a60f277099e994b7f21947d3c95863a5"
+    },
+    {
+        "path": "/media/posts/6/responsive/System-Architecture-sm.jpg",
+        "type": "file",
+        "md5": "f4692171781f3d693a24a13b97d213a2"
+    },
+    {
+        "path": "/media/posts/6/responsive/System-Architecture-xl.jpg",
+        "type": "file",
+        "md5": "36b27806d1f862e478bac9700510335e"
+    },
+    {
+        "path": "/media/posts/6/responsive/System-Architecture-xs.jpg",
+        "type": "file",
+        "md5": "e165d22ca5fb175fe0a0a4cdad76793c"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/Design-Pattern-Example.png",
+        "type": "file",
+        "md5": "4327ed1acf7565dc0593d1d2dc540cc7"
+    },
+    {
+        "path": "/media/posts/7/Django-REST.png",
+        "type": "file",
+        "md5": "2f7e678874b9240b6f79d66e78642ad7"
+    },
+    {
+        "path": "/media/posts/7/Django-example-2.png",
+        "type": "file",
+        "md5": "285e2577c4242d3e9a883534f3695751"
+    },
+    {
+        "path": "/media/posts/7/Django-example-3.png",
+        "type": "file",
+        "md5": "d5e6390f0a04de50d8484f7375560255"
+    },
+    {
+        "path": "/media/posts/7/Django-example.png",
+        "type": "file",
+        "md5": "57216d508e8c1cd3d4afc5c63af285d2"
+    },
+    {
+        "path": "/media/posts/7/LSP-example.png",
+        "type": "file",
+        "md5": "d3b3682bbcb7184583413d964f7ee1dd"
+    },
+    {
+        "path": "/media/posts/7/Python-code-1.png",
+        "type": "file",
+        "md5": "cedba8f6157752f7598b3fadd038223b"
+    },
+    {
+        "path": "/media/posts/7/Python-code-2-2.png",
+        "type": "file",
+        "md5": "7f6f5bf680933394e0bda49d83865c22"
+    },
+    {
+        "path": "/media/posts/7/github-2-2.png",
+        "type": "file",
+        "md5": "9b6bc06aa1618b33edc14575450834b5"
+    },
+    {
+        "path": "/media/posts/7/github-3.png",
+        "type": "file",
+        "md5": "98aaa5c03a4ada4207e4dcbc5a20aec3"
+    },
+    {
+        "path": "/media/posts/7/github-pipeline.png",
+        "type": "file",
+        "md5": "07510c54371eaf8a0806a985290e186b"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/Design-Pattern-Example-2xl.png",
+        "type": "file",
+        "md5": "f036984298cf2d865077e519f64b7fa1"
+    },
+    {
+        "path": "/media/posts/7/responsive/Design-Pattern-Example-lg.png",
+        "type": "file",
+        "md5": "f036984298cf2d865077e519f64b7fa1"
+    },
+    {
+        "path": "/media/posts/7/responsive/Design-Pattern-Example-md.png",
+        "type": "file",
+        "md5": "f85a5a39658f3781ca3a74875cd5bdf7"
+    },
+    {
+        "path": "/media/posts/7/responsive/Design-Pattern-Example-sm.png",
+        "type": "file",
+        "md5": "c79020e68115e953a03fb2dc67f7c08a"
+    },
+    {
+        "path": "/media/posts/7/responsive/Design-Pattern-Example-xl.png",
+        "type": "file",
+        "md5": "f036984298cf2d865077e519f64b7fa1"
+    },
+    {
+        "path": "/media/posts/7/responsive/Design-Pattern-Example-xs.png",
+        "type": "file",
+        "md5": "e8c3fbf6669e6c0ee81ca2c35d7c8041"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-REST-2xl.png",
+        "type": "file",
+        "md5": "5336b4574c7104bde6c6149429e8f838"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-REST-lg.png",
+        "type": "file",
+        "md5": "daec0ae7e7d4f5f56da1ec84552ebf15"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-REST-md.png",
+        "type": "file",
+        "md5": "fb0193f7c8002b134627f4c67701a5d7"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-REST-sm.png",
+        "type": "file",
+        "md5": "5654f84e11c91eed6ad06c4ff1bfc9a4"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-REST-xl.png",
+        "type": "file",
+        "md5": "4df0a5035733786cac72e070d7df16cc"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-REST-xs.png",
+        "type": "file",
+        "md5": "89db81960a74c5a58d7ec772baffd02e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-2-2xl.png",
+        "type": "file",
+        "md5": "198b76df33805eccd632ad50c2e6916b"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-2-lg.png",
+        "type": "file",
+        "md5": "198b76df33805eccd632ad50c2e6916b"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-2-md.png",
+        "type": "file",
+        "md5": "565aabd9d1502455d9eaecded3098f3d"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-2-sm.png",
+        "type": "file",
+        "md5": "8c2393c1daa02def8023d633e75d4ddc"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-2-xl.png",
+        "type": "file",
+        "md5": "198b76df33805eccd632ad50c2e6916b"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-2-xs.png",
+        "type": "file",
+        "md5": "06efa0aa81e3e6d2d8ac673090d60b2d"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-2xl.png",
+        "type": "file",
+        "md5": "94fa176e0f079cf4b71beb57e4e7b3b4"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-3-2xl.png",
+        "type": "file",
+        "md5": "51609d1b2c8383d10e6799562fcf20aa"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-3-lg.png",
+        "type": "file",
+        "md5": "900e3626d431016d51f2bd89ee926b94"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-3-md.png",
+        "type": "file",
+        "md5": "9670e4ab3a7388226cdd21a080c31837"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-3-sm.png",
+        "type": "file",
+        "md5": "80079413078c44911636922966a28203"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-3-xl.png",
+        "type": "file",
+        "md5": "51609d1b2c8383d10e6799562fcf20aa"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-3-xs.png",
+        "type": "file",
+        "md5": "73e955a29e819aaf3fbcd021025eded3"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-lg.png",
+        "type": "file",
+        "md5": "94fa176e0f079cf4b71beb57e4e7b3b4"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-md.png",
+        "type": "file",
+        "md5": "148e83d0970ec3e18855963ece846596"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-sm.png",
+        "type": "file",
+        "md5": "ac8b9b3ad2df2ff5b602d1c0f1b6cece"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-xl.png",
+        "type": "file",
+        "md5": "94fa176e0f079cf4b71beb57e4e7b3b4"
+    },
+    {
+        "path": "/media/posts/7/responsive/Django-example-xs.png",
+        "type": "file",
+        "md5": "2aa192cf4f35f528766f9f9b200d55b3"
+    },
+    {
+        "path": "/media/posts/7/responsive/LSP-example-2xl.png",
+        "type": "file",
+        "md5": "e095d87bf09d952f5e32c6962eac86d9"
+    },
+    {
+        "path": "/media/posts/7/responsive/LSP-example-lg.png",
+        "type": "file",
+        "md5": "e8127fe41551cd52dc2fc4d2107ecf02"
+    },
+    {
+        "path": "/media/posts/7/responsive/LSP-example-md.png",
+        "type": "file",
+        "md5": "c848107eeb519711fe9e3d6e33c3a03a"
+    },
+    {
+        "path": "/media/posts/7/responsive/LSP-example-sm.png",
+        "type": "file",
+        "md5": "56aac0af3e632dd16a5ea320ae9fd82d"
+    },
+    {
+        "path": "/media/posts/7/responsive/LSP-example-xl.png",
+        "type": "file",
+        "md5": "e095d87bf09d952f5e32c6962eac86d9"
+    },
+    {
+        "path": "/media/posts/7/responsive/LSP-example-xs.png",
+        "type": "file",
+        "md5": "90cb2e90b9020ad0097e44d3d0e7693c"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-1-2xl.png",
+        "type": "file",
+        "md5": "0b3b441933145ca3cbf979a0badf9ca4"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-1-lg.png",
+        "type": "file",
+        "md5": "0b3b441933145ca3cbf979a0badf9ca4"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-1-md.png",
+        "type": "file",
+        "md5": "0b3b441933145ca3cbf979a0badf9ca4"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-1-sm.png",
+        "type": "file",
+        "md5": "cac06157e6fd8f9c12401c0ec2012867"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-1-xl.png",
+        "type": "file",
+        "md5": "0b3b441933145ca3cbf979a0badf9ca4"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-1-xs.png",
+        "type": "file",
+        "md5": "1470321d98a53731127104ef2125639d"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-2-2-2xl.png",
+        "type": "file",
+        "md5": "87c39423649a12f7ef4c0e096dcee69e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-2-2-lg.png",
+        "type": "file",
+        "md5": "35fbc5120ab7a35191c97e34dc81c34e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-2-2-md.png",
+        "type": "file",
+        "md5": "13cf64097c4d97e51e3d938e1d0bd873"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-2-2-sm.png",
+        "type": "file",
+        "md5": "24970cf78db760c8a81ad7d959c35fb8"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-2-2-xl.png",
+        "type": "file",
+        "md5": "87c39423649a12f7ef4c0e096dcee69e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Python-code-2-2-xs.png",
+        "type": "file",
+        "md5": "552d89f33fa35eb66fa8e7a02676adf1"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-2-2-2xl.png",
+        "type": "file",
+        "md5": "5076c455d5491de56299fa6f4b2e236a"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-2-2-lg.png",
+        "type": "file",
+        "md5": "532e1f9abab194d3e746afaeeb870654"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-2-2-md.png",
+        "type": "file",
+        "md5": "a36bb66c7cf8ff201800d4e39848aec4"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-2-2-sm.png",
+        "type": "file",
+        "md5": "26d1f5801266925a591522d1c6d9bf66"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-2-2-xl.png",
+        "type": "file",
+        "md5": "c7fe3d64a01a4e79fc6efb8975e087cc"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-2-2-xs.png",
+        "type": "file",
+        "md5": "c86cb8ff6aaac651a08a62245461b66e"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-3-2xl.png",
+        "type": "file",
+        "md5": "b1fced540718e1f4f466e8bf0eb36076"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-3-lg.png",
+        "type": "file",
+        "md5": "079fa4c5f1543ce22cbe15c91a712c6f"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-3-md.png",
+        "type": "file",
+        "md5": "4f3bd76465d9300b6205e78aaee72ba4"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-3-sm.png",
+        "type": "file",
+        "md5": "bac18a7f25fd572cf0421feee84a089e"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-3-xl.png",
+        "type": "file",
+        "md5": "b1fced540718e1f4f466e8bf0eb36076"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-3-xs.png",
+        "type": "file",
+        "md5": "e0196bc307933bc25341eff6516fc3eb"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-pipeline-2xl.png",
+        "type": "file",
+        "md5": "17b4861109ed82888055440b70fe728b"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-pipeline-lg.png",
+        "type": "file",
+        "md5": "8abab0c31c7821664d7169683e290d2c"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-pipeline-md.png",
+        "type": "file",
+        "md5": "c2d037746e4f5143c819e29dcb62f2c6"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-pipeline-sm.png",
+        "type": "file",
+        "md5": "1545ac1da280ce5df694113b8a2acc63"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-pipeline-xl.png",
+        "type": "file",
+        "md5": "d2be4ae8f64a7023050f96a4272fedea"
+    },
+    {
+        "path": "/media/posts/7/responsive/github-pipeline-xs.png",
+        "type": "file",
+        "md5": "38126c0b9f69907bde4289d6bb7deaae"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-2-2xl.png",
+        "type": "file",
+        "md5": "d1c8dc3386abbf246decf2db1a3fe50b"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-2-lg.png",
+        "type": "file",
+        "md5": "d1c8dc3386abbf246decf2db1a3fe50b"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-2-md.png",
+        "type": "file",
+        "md5": "759bd44ae04816bced3ca06111afd56b"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-2-sm.png",
+        "type": "file",
+        "md5": "2e2405c2a89d5a52f6520319d45dd1a9"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-2-xl.png",
+        "type": "file",
+        "md5": "d1c8dc3386abbf246decf2db1a3fe50b"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-2-xs.png",
+        "type": "file",
+        "md5": "c8ba1a1902e024c82b99cf6e8ce6a7e1"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-2xl.png",
+        "type": "file",
+        "md5": "b7fb0781c484e4289a82df70e3400dd2"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-lg.png",
+        "type": "file",
+        "md5": "b7fb0781c484e4289a82df70e3400dd2"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-md.png",
+        "type": "file",
+        "md5": "e52c500e2357b0234d9ac53ca26405e7"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-sm.png",
+        "type": "file",
+        "md5": "927a3bdbbb42896c29c8996787c8f167"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-xl.png",
+        "type": "file",
+        "md5": "b7fb0781c484e4289a82df70e3400dd2"
+    },
+    {
+        "path": "/media/posts/7/responsive/sentry-sdk-xs.png",
+        "type": "file",
+        "md5": "a39ae254318db88beca5d6960d22cbfb"
+    },
+    {
+        "path": "/media/posts/7/sentry-sdk-2.png",
+        "type": "file",
+        "md5": "29548700c92462fb40557a66465698f6"
+    },
+    {
+        "path": "/media/posts/7/sentry-sdk.png",
+        "type": "file",
+        "md5": "cc427d71c4fa7cb15256aadce12b5849"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/automated-testing-success.png",
+        "type": "file",
+        "md5": "2f5e389a57d6dfe715a7c099db513a9f"
+    },
+    {
+        "path": "/media/posts/8/automated-testing.png",
+        "type": "file",
+        "md5": "04c9c8e92187a474ca44a565c09986d5"
+    },
+    {
+        "path": "/media/posts/8/code-testing.png",
+        "type": "file",
+        "md5": "c1b1abf2f49e12298366aa11514173ee"
+    },
+    {
+        "path": "/media/posts/8/dataset-models.png",
+        "type": "file",
+        "md5": "6f55b56ce828c0d842b5d3dd56139e13"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-2xl.png",
+        "type": "file",
+        "md5": "12a439f1532ba43fd6b78c91994e0bcc"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-lg.png",
+        "type": "file",
+        "md5": "12a439f1532ba43fd6b78c91994e0bcc"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-md.png",
+        "type": "file",
+        "md5": "99369db3b78f62107438715dd179faf6"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-sm.png",
+        "type": "file",
+        "md5": "947306eb6d6e15bc5aa368aad9168c44"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-success-2xl.png",
+        "type": "file",
+        "md5": "e129b82d883b93ebe5151001bdc962d8"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-success-lg.png",
+        "type": "file",
+        "md5": "e129b82d883b93ebe5151001bdc962d8"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-success-md.png",
+        "type": "file",
+        "md5": "c3c8d6bab7f901eaac72ace8b6a94b67"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-success-sm.png",
+        "type": "file",
+        "md5": "65eefec1e65183531b6d25ce17803844"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-success-xl.png",
+        "type": "file",
+        "md5": "e129b82d883b93ebe5151001bdc962d8"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-success-xs.png",
+        "type": "file",
+        "md5": "9c025d2674005b98a52e3da26f7e5e67"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-xl.png",
+        "type": "file",
+        "md5": "12a439f1532ba43fd6b78c91994e0bcc"
+    },
+    {
+        "path": "/media/posts/8/responsive/automated-testing-xs.png",
+        "type": "file",
+        "md5": "ef7da64941ed1860f9a8420ee23bcecf"
+    },
+    {
+        "path": "/media/posts/8/responsive/code-testing-2xl.png",
+        "type": "file",
+        "md5": "e798ca98792d5acca242ae5e4f36da52"
+    },
+    {
+        "path": "/media/posts/8/responsive/code-testing-lg.png",
+        "type": "file",
+        "md5": "7568596cc022a12ccca45d568ccab697"
+    },
+    {
+        "path": "/media/posts/8/responsive/code-testing-md.png",
+        "type": "file",
+        "md5": "b2a1db4d092d968008e3a8ddc5eaf83d"
+    },
+    {
+        "path": "/media/posts/8/responsive/code-testing-sm.png",
+        "type": "file",
+        "md5": "97460fa27541f824b068ef010bf5e8a8"
+    },
+    {
+        "path": "/media/posts/8/responsive/code-testing-xl.png",
+        "type": "file",
+        "md5": "80a1231d36f21a56c4063ef0e92aaea5"
+    },
+    {
+        "path": "/media/posts/8/responsive/code-testing-xs.png",
+        "type": "file",
+        "md5": "6486326d33f6b843788d7aa722a83e5f"
+    },
+    {
+        "path": "/media/posts/8/responsive/dataset-models-2xl.png",
+        "type": "file",
+        "md5": "2e206cd3622cd6ba86f1bb52881d751b"
+    },
+    {
+        "path": "/media/posts/8/responsive/dataset-models-lg.png",
+        "type": "file",
+        "md5": "93c681b2edb68c315b3209532d88080a"
+    },
+    {
+        "path": "/media/posts/8/responsive/dataset-models-md.png",
+        "type": "file",
+        "md5": "adc5b77820f0d2b5ea3217c275a6c402"
+    },
+    {
+        "path": "/media/posts/8/responsive/dataset-models-sm.png",
+        "type": "file",
+        "md5": "9f14e6dc150cdd38a7008418a1a03ab1"
+    },
+    {
+        "path": "/media/posts/8/responsive/dataset-models-xl.png",
+        "type": "file",
+        "md5": "2e206cd3622cd6ba86f1bb52881d751b"
+    },
+    {
+        "path": "/media/posts/8/responsive/dataset-models-xs.png",
+        "type": "file",
+        "md5": "195e0529d3002e7b5d00da3d03375523"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/MoSCoW-checklist-2.png",
+        "type": "file",
+        "md5": "6d2ca27903d0970791bbb89abf3cb7ec"
+    },
+    {
+        "path": "/media/posts/9/MoSCoW-checklist.png",
+        "type": "file",
+        "md5": "7d45c6f45a25df70cb003d9f2bc631fc"
+    },
+    {
+        "path": "/media/posts/9/contribution-table.png",
+        "type": "file",
+        "md5": "978b92ae877a09779a1ae5c186f4f83e"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-2-2xl.png",
+        "type": "file",
+        "md5": "8fa6bbe7d4ea2343ced6e72f2c01c0cb"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-2-lg.png",
+        "type": "file",
+        "md5": "2813a8672310519f39222814c385741d"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-2-md.png",
+        "type": "file",
+        "md5": "d52014b8f538b743f04f83bf2b8e1632"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-2-sm.png",
+        "type": "file",
+        "md5": "cdc59c97838313e1e0a87d34d137133b"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-2-xl.png",
+        "type": "file",
+        "md5": "69635e7faa97a96c6316dc636906ab5b"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-2-xs.png",
+        "type": "file",
+        "md5": "3a109b355c0ff98a45e4976c1d2fd2f2"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-2xl.png",
+        "type": "file",
+        "md5": "9d916d0c00de32792fd9f2a8386c46f9"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-lg.png",
+        "type": "file",
+        "md5": "5d2593801b3b2a5e2a5efc5e34972b07"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-md.png",
+        "type": "file",
+        "md5": "36294442bd5fe9b73e08db9f5f7aa120"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-sm.png",
+        "type": "file",
+        "md5": "dfb82b3724b9599654e1750fda5580b4"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-xl.png",
+        "type": "file",
+        "md5": "293b29ca6e6b4fd8437d15c9cfc5a02e"
+    },
+    {
+        "path": "/media/posts/9/responsive/MoSCoW-checklist-xs.png",
+        "type": "file",
+        "md5": "5a6cc3b71bc97767bb6665c02099ee92"
+    },
+    {
+        "path": "/media/posts/9/responsive/contribution-table-2xl.png",
+        "type": "file",
+        "md5": "c20b28411469cad60f1e9f6b0982a482"
+    },
+    {
+        "path": "/media/posts/9/responsive/contribution-table-lg.png",
+        "type": "file",
+        "md5": "96fb7b278c2456d6394c73ae7293f56b"
+    },
+    {
+        "path": "/media/posts/9/responsive/contribution-table-md.png",
+        "type": "file",
+        "md5": "56be60a0ee671db89aeae38934eaeedf"
+    },
+    {
+        "path": "/media/posts/9/responsive/contribution-table-sm.png",
+        "type": "file",
+        "md5": "85cb573379c21d2d7ee05bab3eb545e0"
+    },
+    {
+        "path": "/media/posts/9/responsive/contribution-table-xl.png",
+        "type": "file",
+        "md5": "350cc905f0b653e035bea660972a6f38"
+    },
+    {
+        "path": "/media/posts/9/responsive/contribution-table-xs.png",
+        "type": "file",
+        "md5": "2a03c716f06cec61b2a22039bab1106f"
+    },
+    {
+        "path": "requirements.html",
+        "type": "file",
+        "md5": "7c667c3d6e6c72744a4db8ea04d26592"
+    },
+    {
+        "path": "research.html",
+        "type": "file",
+        "md5": "241cc96e2779194a66e396db932c41f0"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "50d8a018e8ae96732c8a2ba663c61d4e"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "dfbcd03ceccd8299dc6635e61aaf7370"
+    },
+    {
+        "path": "system-design.html",
+        "type": "file",
+        "md5": "bb4140521c0762153676681b8d1397a6"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "a25a9b2be35bd21a75e234a9e23790c0"
+    },
+    {
+        "path": "testing.html",
+        "type": "file",
+        "md5": "2389f0dfad5cc649d3723416c01a4331"
+    },
+    {
+        "path": "ui-design.html",
+        "type": "file",
+        "md5": "20223b70eab9d45cda6c9cca3129a0af"
+    }
+]

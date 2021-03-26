@@ -33,13 +33,6 @@ class InnerView(generic.ListView):
             pub_date__lte=timezone.now()
         ).order_by('-pub_date')[:5]
 
-# class CancerView(generic.ListView):
-#     template_name = 'cancer.html'
-#     def get_queryset(self):
-#         """
-#         Update the model, excluding any questions that aren't published yet.
-#         """
-#         return Question.objects.filter(pub_date__lte=timezone.now())
 
 
 class CancerView(generic.ListView):

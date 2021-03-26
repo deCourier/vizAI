@@ -49,8 +49,9 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Techniques</a></li>
-          <li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link   scrollto" href="#portfolio">Examples</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          <li><a class="nav-link scrollto" href="#pricing">Samples</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -68,7 +69,7 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul> -->
           </li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+          <li><a class="glightbox btn-get-started scrollto" href="https://vizaicomp0016.anvil.app" data-width="100vw">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -87,7 +88,16 @@
             Click 'Get Started' below to upload your very own dataset.
           </h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="https://vizaicomp0016.anvil.app" class="glightbox btn-get-started scrollto">Get Started</a>
+            <script type="text/javascript">
+            $(document).ready(function () {
+            $('#success').click(function (e) {
+            e.preventDefault()
+            $('#message').html('<div class="alert alert-success fade in"><button type="button" class="close close-alert"
+                data-dismiss="alert" aria-hidden="true">×</button>This is a success message</div>');
+            })
+            </script>
+            <a href="https://vizaicomp0016.anvil.app" class="glightbox alert alert-success btn-get-started scrollto">Get Started</a>
+            
             <a href="https://www.youtube.com/watch?v=YSsYXAn_L00" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
@@ -502,7 +512,7 @@
               <div class="member-info">
                 <h4>James Chang</h4>
                 <span>vizAI Co-Founder</span>
-                <p>Jamesis a 2nd year Computer Science student at UCL, and the development blogger for vizAI. He has good communication skills and has a passion for programming. He is interested in artificial intelligence and machine learning. 
+                <p>James is a 2nd year Computer Science student at UCL, and the development blogger for vizAI. He has good communication skills and has a passion for programming. He is interested in artificial intelligence and machine learning. 
 
                 </p>
                 <div class="social">
@@ -534,12 +544,11 @@
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
               <h3>Alcohol Dataset</h3>
-              <h4>2.4<sup>MB</sup><span>90% Accuracy</span></h4>
+              <h4>2.4<sup>MB</sup><span>87.4% Accuracy</span></h4>
               <ul>
-                <li> Convolutonal Neural Network </li>
-                <li> Training - 278 images </li>
-                <li> Validation - 27 samples </li>
-                <li> Testing - 30 Images</li>
+                <li> Regressor Model </li>
+                <li> 215 Data Points </li>
+                <li> MSE(Mean Square Error) = 1.21 </li>
                 <li> SHAP Tree </li>
               </ul>
               <a href="https://downgit.github.io/#/home?url=https://github.com/deCourier/vizAI/tree/main/Final%20Test%20Models/alcohol" class="buy-btn">Get Dataset</a>
@@ -549,13 +558,12 @@
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
             <div class="box featured">
               <h3>Cancer Dataset</h3>
-              <h4>1.8<sup>MB</sup><span>91.6% Accuracy</span></h4>
+              <h4>1.8<sup>MB</sup><span>93.3% Accuracy</span></h4>
               <ul>
-                <li> Convolutonal Neural Network </li>
-                <li> Training - 350  images </li>
-                <li> Validation - 35 samples </li>
-                <li> Testing - 30 Images</li>
-                <li> SHAP Deep Learning </li>
+                <li> Multilayer Perceptron </li>
+                <li> 258 Data Points </li>
+                <li> MSE(Mean Square Error) = 2.13 </li>
+                <li> SHAP Deep </li>
               </ul>
               <a href="https://downgit.github.io/#/home?url=https://github.com/deCourier/vizAI/tree/main/Final%20Test%20Models/Cancer" class="buy-btn">Get Dataset</a>
             </div>
@@ -563,16 +571,15 @@
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
-              <h3>COVID-19 Dataset</h3>
+              <h3>NBA Dataset</h3>
               <h4>1.3<sup>MB</sup><span>96% Accuracy</span></h4>
               <ul>
-                <li> Convolutonal Neural Network </li>
-                <li> Training - 432 images </li>
-                <li> Validation - 48 samples </li>
-                <li> Testing - 36 Images</li>
+                <li> Convolutional Neural Network </li>
+                <li> 124 Data Points </li>
+                <li> RMSC(Root Mean Square Error) = 4.83 </li>
                 <li> SHAP Tree </li>
               </ul>
-              <a href="https://downgit.github.io/#/home?url=https://github.com/deCourier/vizAI/tree/main/Final Test Models/unemployment and mental illness" class="buy-btn">Get Dataset</a>
+              <a href="https://downgit.github.io/#/home?url=https://github.com/deCourier/vizAI/tree/main/Final Test Models/nba" class="buy-btn">Get Dataset</a>
             </div>
           </div>
 

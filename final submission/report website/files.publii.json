@@ -7,12 +7,12 @@
     {
         "path": "algorithms.html",
         "type": "file",
-        "md5": "ea0c981e383bcdd2359b2e11868e34d8"
+        "md5": "7bd4d3c207757b0ae00fed59406eea34"
     },
     {
         "path": "appendices.html",
         "type": "file",
-        "md5": "c3d0c4398a7e4989aaf4a9f6ac651ed9"
+        "md5": "bcd030bfa8629d04fba89c0a2240b9fe"
     },
     {
         "path": "assets",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/james-chang/page/2/index.html",
         "type": "file",
-        "md5": "358079a6f8cc7783bbf9141fc8fafd9e"
+        "md5": "bbf06e2f9e1fa254e995a3f65a67fa09"
     },
     {
         "path": "authors/james-chang/page/3",
@@ -147,27 +147,27 @@
     {
         "path": "development-blog.html",
         "type": "file",
-        "md5": "2a3e09fd5c96093a4711b5a0361f66df"
+        "md5": "f08e689a7b2b9dbd0a2d6320a4c670a4"
     },
     {
         "path": "evaluation.html",
         "type": "file",
-        "md5": "89e5cacfe0a0a970505c3bd97e2c12aa"
+        "md5": "5f84a7b61af0f362a8b3a32b51252788"
     },
     {
         "path": "example.html",
         "type": "file",
-        "md5": "64bebd529eb83983f89a97083b4e6e69"
+        "md5": "43cb58bbbf52cdb122eb72c4af1b356e"
     },
     {
         "path": "implementation.html",
         "type": "file",
-        "md5": "1b5004c2a1c0008d0f6243114248559a"
+        "md5": "554180784148740e5ab8586d02408bd4"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "04e3b340bba723f3d15426a627bd5826"
+        "md5": "7b4e5c553af9981a5d9cf451764be0bc"
     },
     {
         "path": "media",
@@ -1647,12 +1647,12 @@
     {
         "path": "requirements.html",
         "type": "file",
-        "md5": "7c667c3d6e6c72744a4db8ea04d26592"
+        "md5": "b43cd427f5463516b47f890794577462"
     },
     {
         "path": "research.html",
         "type": "file",
-        "md5": "241cc96e2779194a66e396db932c41f0"
+        "md5": "abd803231cc04eb7fdb17063babc3f11"
     },
     {
         "path": "robots.txt",
@@ -1667,7 +1667,7 @@
     {
         "path": "system-design.html",
         "type": "file",
-        "md5": "bb4140521c0762153676681b8d1397a6"
+        "md5": "274b80864eac444d8b4da54b83d0f4f3"
     },
     {
         "path": "tags",
@@ -1682,11 +1682,11 @@
     {
         "path": "testing.html",
         "type": "file",
-        "md5": "2389f0dfad5cc649d3723416c01a4331"
+        "md5": "522c4f562f7316c1412fe04cd6720bed"
     },
     {
         "path": "ui-design.html",
         "type": "file",
-        "md5": "20223b70eab9d45cda6c9cca3129a0af"
+        "md5": "e29cc6ce5e805ec8f6f6dce9f7c11436"
     }
 ]

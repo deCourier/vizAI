@@ -7,3 +7,4 @@ Requirements: 8gb free disk space, 8gb RAM, 2GHz processor with 2 cores
 Line 83: Change port to whichever localhost port you want the graphs to show on, add argument local_ip="#IP of VM/Server" if running on an open port.
 Line 85: If changed port in line 83, change "http://localhost:80/" within return statement to "http://localhost:" + port which you changed in line 83.
          If added local_ip in line 83, change "http://localhost:80/" to the ip or domain name of the server you are running the code on.
+6. Go to vizweb.azurewebsites.net and click the "Get Started" button to use.

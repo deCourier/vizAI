@@ -76,7 +76,7 @@ Install the db-up extension for the Azure CLI:
 $ az extension add --name db-up
 az postgres up --resource-group vizAI_RG --location westus2 --sku-name B_Gen5_1 --server-name <postgres-server-name> --database-name pollsdb --admin-user <admin-username> --admin-password <admin-password> --ssl-enforcement Enabled
 ```
-##Note:##
+**Note:**
 Replace *<postgres-server-name>* with a name that's unique across all Azure (the server endpoint becomes *https://<postgres-server-name>.postgres.database.azure.com*). 
 For *<admin-username>* and *<admin-password>*, specify credentials to create an administrator user for this Postgres server. The password must contain **8 to 128 characters** from three of the following categories: English uppercase letters, English lowercase letters, numbers (0 through 9), and non-alphanumeric characters (for example, !, #, %).
 
@@ -130,7 +130,7 @@ The resource group and app names are drawn from the cached values in the .azure/
 Open an SSH session in the browser at *https://<app-name>.scm.azurewebsites.net/webssh/host* by navigating to the following URL and signing in with your Azure account credentials (not the database server credentials)
 
 Replace <app-name> with the name used earlier in the az webapp up command.
-##Note:## If you cannot connect to the SSH session, then the app itself has failed to start. Check the diagnostic logs for details. For example, if you haven't created the necessary app settings in the previous section, the logs will indicate KeyError: 'DBNAME'.
+**Note:** If you cannot connect to the SSH session, then the app itself has failed to start. Check the diagnostic logs for details. For example, if you haven't created the necessary app settings in the previous section, the logs will indicate KeyError: 'DBNAME'.
 In the SSH session, run the following commands (you can paste commands using Ctrl+Shift+V):
 
 ```zsh

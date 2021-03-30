@@ -4,7 +4,7 @@ Visualising Explainable AI - A novelty project for non-data science people to ge
 
 ![branches](./redeployment/branches.png )
 
-This project contains 2 branches, the main branch for the SHAP Explainability Module, and the master branch for setting up the web application and deploying it on Azure. ##Main## - SHAP Explainability Module, ##Master## - Azure Web Application 
+This project contains 2 branches, the main branch for the SHAP Explainability Module, and the master branch for setting up the web application and deploying it on Azure. **Main**- SHAP Explainability Module, **Master** - Azure Web Application 
 
 ## Summary
 

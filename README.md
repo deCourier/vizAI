@@ -2,7 +2,7 @@
 
 Visualising Explainable AI - A novelty project for non-data science people to get acquainted with Machine Learning.
 This project contains 2 branches, the main branch for the SHAP Explainability Module, and the master branch for setting up the web application and deploying it on Azure. 
-![home](./final submission/report website/media/posts/branches.png )
+![branches](./redeployment/branches.png )
 
 ## Summary
 
